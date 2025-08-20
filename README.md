@@ -36,3 +36,6 @@ Identified water turbidity and depth as critical factors affecting performance.
 Explore advanced modulation techniques (e.g., DPSK, QPSK).
 Improve power efficiency and system range.
 Integrate with IoT and AI for real-time underwater data monitoring and processing.
+
+<img width="1391" height="606" alt="Screenshot 2025-04-16 195443" src="https://github.com/user-attachments/assets/0f8712e8-b229-4fa5-8e5c-42387b63eb40" />
+
