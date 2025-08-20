@@ -37,7 +37,12 @@ Explore advanced modulation techniques (e.g., DPSK, QPSK).
 Improve power efficiency and system range.
 Integrate with IoT and AI for real-time underwater data monitoring and processing.
 
+tool:
+<img width="990" height="370" alt="Logo-optiwave" src="https://github.com/user-attachments/assets/cb4d3cfc-4569-43b8-b257-cef5541031e6" />
+
+Problem Statement:
 <img width="1187" height="418" alt="Screenshot 2025-04-16 201049" src="https://github.com/user-attachments/assets/848f0ed5-d544-4334-8f50-5ad00bd0d99f" />
 
+Conclusion and future scope:
 <img width="1391" height="606" alt="Screenshot 2025-04-16 195443" src="https://github.com/user-attachments/assets/0f8712e8-b229-4fa5-8e5c-42387b63eb40" />
 
